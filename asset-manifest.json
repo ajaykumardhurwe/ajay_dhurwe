@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ajay_dhurwe/static/css/main.49a2bf63.css",
+    "main.js": "/ajay_dhurwe/static/js/main.b1254bb4.js",
+    "static/js/453.419a5d54.chunk.js": "/ajay_dhurwe/static/js/453.419a5d54.chunk.js",
+    "index.html": "/ajay_dhurwe/index.html",
+    "static/media/resume.txt": "/ajay_dhurwe/static/media/resume.c526589e76adf104723c.txt",
+    "main.49a2bf63.css.map": "/ajay_dhurwe/static/css/main.49a2bf63.css.map",
+    "main.b1254bb4.js.map": "/ajay_dhurwe/static/js/main.b1254bb4.js.map",
+    "453.419a5d54.chunk.js.map": "/ajay_dhurwe/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49a2bf63.css",
+    "static/js/main.b1254bb4.js"
+  ]
+}
